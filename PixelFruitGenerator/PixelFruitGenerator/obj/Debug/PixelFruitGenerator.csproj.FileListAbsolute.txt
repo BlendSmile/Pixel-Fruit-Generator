@@ -1,0 +1,10 @@
+C:\Users\ALIF\source\repos\PixelFruitGenerator\PixelFruitGenerator\bin\Debug\PixelFruitGenerator.exe.config
+C:\Users\ALIF\source\repos\PixelFruitGenerator\PixelFruitGenerator\bin\Debug\PixelFruitGenerator.exe
+C:\Users\ALIF\source\repos\PixelFruitGenerator\PixelFruitGenerator\bin\Debug\PixelFruitGenerator.pdb
+C:\Users\ALIF\source\repos\PixelFruitGenerator\PixelFruitGenerator\obj\Debug\PixelFruitGenerator.csprojAssemblyReference.cache
+C:\Users\ALIF\source\repos\PixelFruitGenerator\PixelFruitGenerator\obj\Debug\PixelFruitGenerator.Form1.resources
+C:\Users\ALIF\source\repos\PixelFruitGenerator\PixelFruitGenerator\obj\Debug\PixelFruitGenerator.Properties.Resources.resources
+C:\Users\ALIF\source\repos\PixelFruitGenerator\PixelFruitGenerator\obj\Debug\PixelFruitGenerator.csproj.GenerateResource.cache
+C:\Users\ALIF\source\repos\PixelFruitGenerator\PixelFruitGenerator\obj\Debug\PixelFruitGenerator.csproj.CoreCompileInputs.cache
+C:\Users\ALIF\source\repos\PixelFruitGenerator\PixelFruitGenerator\obj\Debug\PixelFruitGenerator.exe
+C:\Users\ALIF\source\repos\PixelFruitGenerator\PixelFruitGenerator\obj\Debug\PixelFruitGenerator.pdb
